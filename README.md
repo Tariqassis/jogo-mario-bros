@@ -18,6 +18,9 @@ Game do Mario Bros para navegador no estilo Dino do Google
 - movimentação de andar ,pular 
 
 
+https://user-images.githubusercontent.com/86030679/177578003-25acf31c-1367-450b-81cc-49d10c7bb0b5.mp4
+
+
 ## Como vizualizar o projeto?
 
 Disponível no Link: https://tariqassis.github.io/jogo-mario-bros/mario-jump/

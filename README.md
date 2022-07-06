@@ -5,18 +5,22 @@ Game do Mario Bros para navegador no estilo Dino do Google
 
 
 
-## Aprendizados
+## Tecnologias utilizada
 
-Esse projeto foi construido em forma de estudo e melhoramento de tecnicas de estudo.
-
-
-Inteiramente feito em HTML, CSS e JavaScript 
+**Front-end:** HTML, CSS, JAVASCRIPT
 
 
 
-## Demonstração
+## Funcionalidades
 
-https://tariqassis.github.io/jogo-mario-bros/mario-jump/
+- Jogo simples usando DOM para manipulação do HTML
+- game em 2D 
+- movimentação de andar ,pular 
+
+
+## Como vizualizar o projeto?
+
+Disponível no Link: https://tariqassis.github.io/jogo-mario-bros/mario-jump/
 
 
 ## 🔗 Links
